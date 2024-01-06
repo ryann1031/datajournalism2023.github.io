@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	“为什么你点的外卖总是被浪费？”的评论	</title>
-	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ryann1031.github.io/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ryann1031.github.io/</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Dec 2023 15:06:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Jan 2024 15:21:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

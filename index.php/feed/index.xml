@@ -9,10 +9,10 @@
 
 <channel>
 	<title>为什么你点的外卖总是被浪费？</title>
-	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ryann1031.github.io/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ryann1031.github.io/</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Dec 2023 15:06:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Jan 2024 15:21:20 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/Logo-副本-150x150.png</url>
+	<url>https://ryann1031.github.io/wp-content/uploads/2023/12/Logo-副本-150x150.png</url>
 	<title>为什么你点的外卖总是被浪费？</title>
-	<link>/</link>
+	<link>https://ryann1031.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
